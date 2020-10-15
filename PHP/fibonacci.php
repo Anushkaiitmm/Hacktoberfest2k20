@@ -49,5 +49,5 @@ function iteFibonacci($num){
 //Execute the iterative function:
 $num = 15; 
 iteFibonacci($num);
-?> 
+?>
 
